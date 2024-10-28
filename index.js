@@ -1,1 +1,1 @@
-// Code your solution here
+const findMatching = (array, string) => array.filter(item => item.toLowerCase() === string.toLowerCase());
